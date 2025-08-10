@@ -47,5 +47,8 @@ jobs:
       - name: Test On Node ${{ matrix.node-version }}
         run: |
           npm run test
-      - name: Coverage on Node ${{ matrix.node-version }}
-        run: npm run coverage
+      - name: Coveralls Parallel
+        uses: coverallsapp/github-action@v2
+        with:
+          flag-name: run-${{ join(matrix.*, '-') }}
+          parallel: true
