@@ -197,3 +197,6 @@ pnpm test
 # Lint
 pnpm lint
 ```
+
+## TODO
+- [] Command line tool
