@@ -1,6 +1,7 @@
 import { open, readFile } from 'fs/promises';
 import { Asset, AssetSize } from './index.interface';
 const size2typesRecord: Record<AssetSize, string[]> = {
+    16: ['icp4'],
     32: ['icp5'],
     64: ['icp6', 'ic11'],
     128: ['ic07', 'ic12'],
