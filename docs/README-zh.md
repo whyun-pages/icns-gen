@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/icns-gen.svg)](https://www.npmjs.com/package/icns-gen)
 [![Build Status](https://github.com/whyun-pages/icns-gen/actions/workflows/ci.yml/badge.svg)](https://github.com/whyun-pages/icns-gen/actions/workflows/ci.yml)
-[![Coverage Status](https://coveralls.io/repos/github/yunnysunny/icns-gen/badge.svg?branch=main)](https://coveralls.io/github/yunnysunny/icns-gen?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/whyun-pages/icns-gen/badge.svg?branch=main)](https://coveralls.io/github/whyun-pages/icns-gen?branch=main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![npm downloads](https://img.shields.io/npm/dm/icns-gen.svg)](https://www.npmjs.com/package/icns-gen)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
