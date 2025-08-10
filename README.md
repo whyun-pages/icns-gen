@@ -199,4 +199,5 @@ pnpm lint
 ```
 
 ## TODO
-- [] Command line tool
+
+- [ ] Command line tool
