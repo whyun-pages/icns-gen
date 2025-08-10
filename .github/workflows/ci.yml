@@ -4,6 +4,8 @@ on:
     paths-ignore:
       - 'docs/**'
       - '**.md'
+env:
+  COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_REPO_TOKEN }}
 jobs:
   test:
     runs-on: ubuntu-latest
